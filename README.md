@@ -11,7 +11,7 @@ This project implements a secure, modular multi-agent architecture for enhancing
 ## Setup Instructions
 
 1. Clone this repository:
-git clone https://github.com/your_username/secure-multi-agent-llm.git
+git clone https://github.com/Akanksha647/secure-multi-agent-llm.git
 
 2. Install dependencies:
 pip install -r requirements.txt
@@ -106,7 +106,7 @@ Initialize a git repo:
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/your_username/secure-multi-agent-llm.git
+git remote add origin https://github.com/Akanksha647/secure-multi-agent-llm.git
 git push -u origin master
 
 Step 4: arXiv Submission
